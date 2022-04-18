@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FKVkqpm1jVlbQ0ZDcLNJojCNWGUNVu3xlMHhX0xk8ZRHSnrWc9ANUFja8yuyxHo33nVzHY9dAmPVqiYwt6bEPQ==",
+  "success": true,
+  "projectFilePath": "N:\\UTOP\\Single_Responsibility_Principle\\Open_Close_Principle\\Open_Close_Principle.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\phanh\\.nuget\\packages\\system.diagnostics.eventlog\\7.0.0-preview.3.22175.4\\system.diagnostics.eventlog.7.0.0-preview.3.22175.4.nupkg.sha512"
+  ],
+  "logs": []
+}

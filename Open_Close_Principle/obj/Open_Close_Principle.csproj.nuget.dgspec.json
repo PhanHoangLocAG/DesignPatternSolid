@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "N:\\UTOP\\Single_Responsibility_Principle\\Open_Close_Principle\\Open_Close_Principle.csproj": {}
+  },
+  "projects": {
+    "N:\\UTOP\\Single_Responsibility_Principle\\Open_Close_Principle\\Open_Close_Principle.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "N:\\UTOP\\Single_Responsibility_Principle\\Open_Close_Principle\\Open_Close_Principle.csproj",
+        "projectName": "Open_Close_Principle",
+        "projectPath": "N:\\UTOP\\Single_Responsibility_Principle\\Open_Close_Principle\\Open_Close_Principle.csproj",
+        "packagesPath": "C:\\Users\\phanh\\.nuget\\packages\\",
+        "outputPath": "N:\\UTOP\\Single_Responsibility_Principle\\Open_Close_Principle\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\phanh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/Loyalstar/_packaging/UtopNuget/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "System.Diagnostics.EventLog": {
+              "target": "Package",
+              "version": "[7.0.0-preview.3.22175.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
